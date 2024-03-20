@@ -2,6 +2,7 @@
 
 *
 {
+    width:100vh;
     margin: 0;
     border: border-box;
     font-family: Arial;
@@ -27,6 +28,7 @@ a{
 
 .navbar
 {
+    width: 100vh;
     height: 60px;
     background-color: #0f1111;
     color: white;

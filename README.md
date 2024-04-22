@@ -1,5 +1,8 @@
 Amazon.com Clone 
-<br>
+
 This is amazon.com Clone Which only contain fontend 
-### Note
-This project was created when i was learning Html and Css. This is'nt my main project 
+
+## how To Go the website 
+[Click Here to Visit](https://darkdeity001.github.io/Amazon_clone-Frontend/)
+## Note
+This is'nt my main project 
